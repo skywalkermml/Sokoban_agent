@@ -1,0 +1,348 @@
+<<<BFS>>>
+
+#######
+# .   #
+# # # #
+# # # #
+# $@  #
+#     #
+#######
+
+number of nodes generated: 747
+number of nodes containing states generated before: 424
+number of nodes on the fringe: 19
+number of nodes in the explored list: 303
+run time: 0.228515863419
+movement solution:
+dllurdruuuddrruuull
+
+####
+# .#
+#  ###
+#. $ #
+#  $ #
+#@   #
+######
+
+number of nodes generated: 2202
+number of nodes containing states generated before: 1248
+number of nodes on the fringe: 159
+number of nodes in the explored list: 794
+run time: 1.04943990707
+movement solution:
+rrruullrrdldluuu
+
+#####
+#@  ##
+#.$* #
+#  # #
+#    #
+######
+
+number of nodes generated: 1762
+number of nodes containing states generated before: 1014
+number of nodes on the fringe: 3
+number of nodes in the explored list: 744
+run time: 0.736284971237
+movement solution:
+rdlddrrruullrrddlludrruululldrddlu
+
+
+<<<DFS>>>
+
+#######
+# .   #
+# # # #
+# # # #
+# $@  #
+#     #
+#######
+
+number of nodes generated: 649
+number of nodes containing states generated before: 367
+number of nodes on the fringe: 14
+number of nodes in the explored list: 267
+run time: 0.214184045792
+movement solution:
+rruuulllldddrrdrruldluuuddrruuull
+
+####
+# .#
+#  ###
+#. $ #
+#  $ #
+#@   #
+######
+
+number of nodes generated: 3321
+number of nodes containing states generated before: 2064
+number of nodes on the fringe: 33
+number of nodes in the explored list: 1223
+run time: 1.9265871048
+movement solution:
+rrrulrulrddlllurdrruullrrddllluurrrddlurulrddllluuruuldrdddrruulrddlluuu
+
+#####
+#@  ##
+#.$* #
+#  # #
+#    #
+######
+
+number of nodes generated: 1262
+number of nodes containing states generated before: 712
+number of nodes on the fringe: 15
+number of nodes in the explored list: 534
+run time: 0.449115991592
+movement solution:
+rdlddrrruullrrddlludrruululldrddlu
+
+<<<UCS>>>
+
+#######
+# .   #
+# # # #
+# # # #
+# $@  #
+#     #
+#######
+
+number of nodes generated: 837
+number of nodes containing states generated before: 477
+number of nodes on the fringe: 20
+number of nodes in the explored list: 339
+run time: 0.285336971283
+movement solution:
+dllurdruuuddrruuull
+
+####
+# .#
+#  ###
+#. $ #
+#  $ #
+#@   #
+######
+
+number of nodes generated: 2934
+number of nodes containing states generated before: 1735
+number of nodes on the fringe: 128
+number of nodes in the explored list: 1070
+run time: 1.81289887428
+movement solution:
+rrruullrrdldluuu
+
+#####
+#@  ##
+#.$* #
+#  # #
+#    #
+######
+
+number of nodes generated: 1769
+number of nodes containing states generated before: 1019
+number of nodes on the fringe: 2
+number of nodes in the explored list: 747
+run time: 0.7820789814
+movement solution:
+rdlddrrruullrrddlludrruululldrddlu
+
+<<<Greedy BFS (heuristic 1)>>>
+
+#######
+# .   #
+# # # #
+# # # #
+# $@  #
+#     #
+#######
+
+number of nodes generated: 117
+number of nodes containing states generated before: 60
+number of nodes on the fringe: 9
+number of nodes in the explored list: 47
+run time: 0.0294618606567
+movement solution:
+uuulldddrdruuuddrruuull
+
+
+########
+#  . . #
+#    # #
+## # # #
+ #  $  #
+ #  $@ #
+ #     #
+ #######
+
+number of nodes generated: 1022
+number of nodes containing states generated before: 598
+number of nodes on the fringe: 55
+number of nodes in the explored list: 368
+run time: 0.434876918793
+movement solution:
+luuulurdddddluruldluuulur
+
+####
+#  ####
+# . . #
+# $$#@#
+##    #
+ ######
+
+number of nodes generated: 320
+number of nodes containing states generated before: 156
+number of nodes on the fringe: 30
+number of nodes in the explored list: 133
+run time: 0.0816149711609
+movement solution:
+dlludluluurdrddlu
+
+<<<Greedy BFS (heuristic 2)>>>
+
+#######
+# .   #
+# # # #
+# # # #
+# $@  #
+#     #
+#######
+
+number of nodes generated: 177
+number of nodes containing states generated before: 77
+number of nodes on the fringe: 29
+number of nodes in the explored list: 70
+run time: 0.0470490455627
+movement solution:
+dllurdruuuddrruuull
+
+########
+#  . . #
+#    # #
+## # # #
+ #  $  #
+ #  $@ #
+ #     #
+ #######
+
+number of nodes generated: 141
+number of nodes containing states generated before: 42
+number of nodes on the fringe: 51
+number of nodes in the explored list: 47
+run time: 0.0409080982208
+movement solution:
+luuulurdddddluruldluuulur
+
+####
+#  ####
+# . . #
+# $$#@#
+##    #
+ ######
+
+number of nodes generated: 133
+number of nodes containing states generated before: 54
+number of nodes on the fringe: 26
+number of nodes in the explored list: 52
+run time: 0.0288760662079
+movement solution:
+dlludluluurdrddlu
+
+<<<A* (heuristic 1)>>>
+
+#######
+# .   #
+# # # #
+# # # #
+# $@  #
+#     #
+#######
+
+number of nodes generated: 645
+number of nodes containing states generated before: 367
+number of nodes on the fringe: 17
+number of nodes in the explored list: 260
+run time: 0.211736917496
+movement solution:
+dllurdruuuddrruuull
+
+########
+#  . . #
+#    # #
+## # # #
+ #  $  #
+ #  $@ #
+ #     #
+ #######
+
+number of nodes generated: 9587
+number of nodes containing states generated before: 5479
+number of nodes on the fringe: 721
+number of nodes in the explored list: 3386
+run time: 18.3790180683
+movement solution:
+luuulurddddldluuuulur
+
+####
+#  ####
+# . . #
+# $$#@#
+##    #
+ ######
+
+number of nodes generated: 834
+number of nodes containing states generated before: 418
+number of nodes on the fringe: 74
+number of nodes in the explored list: 341
+run time: 0.291481971741
+movement solution:
+dlludluluurdrddlu
+
+<<<A* (heuristic 2)>>>
+
+#######
+# .   #
+# # # #
+# # # #
+# $@  #
+#     #
+#######
+
+number of nodes generated: 560
+number of nodes containing states generated before: 310
+number of nodes on the fringe: 23
+number of nodes in the explored list: 226
+run time: 0.176954030991
+movement solution:
+dllurdruuuddrruuull
+
+########
+#  . . #
+#    # #
+## # # #
+ #  $  #
+ #  $@ #
+ #     #
+ #######
+
+number of nodes generated: 2937
+number of nodes containing states generated before: 1362
+number of nodes on the fringe: 586
+number of nodes in the explored list: 988
+run time: 2.72062301636
+movement solution:
+luuulurddddldluuuulur
+
+####
+#  ####
+# . . #
+# $$#@#
+##    #
+ ######
+
+number of nodes generated: 490
+number of nodes containing states generated before: 209
+number of nodes on the fringe: 86
+number of nodes in the explored list: 194
+run time: 0.146712064743
+movement solution:
+dlludluluurdrddlu
